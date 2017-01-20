@@ -1,0 +1,53 @@
+#dowebok {
+  width: 100%;
+  height: 100%;
+}
+#dowebok .section {
+  background: #f6f6f6 !important;
+  position: relative;
+}
+#dowebok .section .news {
+  width: 1000px;
+  margin: 0 auto;
+}
+#dowebok .section .news h2 {
+  width: 100%;
+  height: 102px;
+  line-height: 102px;
+  text-align: left;
+  padding-left: 26px;
+  color: #333;
+  font-size: 18px;
+  padding-top: 110px;
+}
+#dowebok .section .news .title {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+  padding-top: 10px;
+  font-weight: bold;
+}
+#dowebok .section .news .time {
+  paddign-top: 15px;
+  color: #999;
+  font-size: 14px;
+  text-align: center;
+}
+#dowebok .section .news ul {
+  overflow: hidden;
+  padding-top: 50px;
+}
+#dowebok .section .news ul li {
+  color: #333;
+  font-size: 16px;
+  line-height: 30px;
+  padding-top: 20px;
+}
+#dowebok .section .footers {
+  width: 100%;
+  text-align: center;
+  color: #666;
+  line-height: 60px;
+  height: 60px;
+  background: #eee;
+}
